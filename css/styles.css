@@ -23,7 +23,7 @@
 
   --container: 1160px;
   --gutter: clamp(16px, 4vw, 40px);
-  --section: clamp(3.5rem, 7vw, 6rem);
+  --section: clamp(2.25rem, 4vw, 3.5rem);
   --radius: 6px;
   --shadow: 0 10px 30px rgba(35, 31, 32, 0.08);
 
